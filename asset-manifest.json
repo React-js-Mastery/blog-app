@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/blog-app/static/css/main.29e007e3.css",
+    "main.css": "/blog-app/static/css/main.522393fd.css",
     "main.js": "/blog-app/static/js/main.5ba95eab.js",
     "static/media/wallpaper-5.jpg": "/blog-app/static/media/wallpaper-5.4a250810390cb21f990e.jpg",
     "static/media/Automation and Robotics.jpg": "/blog-app/static/media/Automation and Robotics.3d4ef7ece7123df06177.jpg",
@@ -11,7 +11,6 @@
     "static/media/Internet of Things (IoT).jpg": "/blog-app/static/media/Internet of Things (IoT).103841675b2df127056b.jpg",
     "static/media/Quantum Computing.jpg": "/blog-app/static/media/Quantum Computing.d48735dc2a8584c16770.jpg",
     "static/media/Nanotechnology.jpg": "/blog-app/static/media/Nanotechnology.d7e6be6d0dd206607e81.jpg",
-    "static/media/aid-3.gif": "/blog-app/static/media/aid-3.2fc9762b61905a2bed42.gif",
     "static/media/Smart-Home-and-Smart-City=-Solutions.jpg": "/blog-app/static/media/Smart-Home-and-Smart-City=-Solutions.8f62c1869567bf545b15.jpg",
     "static/media/Star-Wars.jpg": "/blog-app/static/media/Star-Wars.222760f7c70d28363e45.jpg",
     "static/media/Cybersecurity and Data Privacy.jpg": "/blog-app/static/media/Cybersecurity and Data Privacy.635e265f8e740845f72a.jpg",
@@ -82,11 +81,11 @@
     "static/media/Burgers.jpg": "/blog-app/static/media/Burgers.be7404a69105197d91a1.jpg",
     "static/media/Sushi.jpg": "/blog-app/static/media/Sushi.183719dd3d91ff5aec2c.jpg",
     "index.html": "/blog-app/index.html",
-    "main.29e007e3.css.map": "/blog-app/static/css/main.29e007e3.css.map",
+    "main.522393fd.css.map": "/blog-app/static/css/main.522393fd.css.map",
     "main.5ba95eab.js.map": "/blog-app/static/js/main.5ba95eab.js.map"
   },
   "entrypoints": [
-    "static/css/main.29e007e3.css",
+    "static/css/main.522393fd.css",
     "static/js/main.5ba95eab.js"
   ]
 }
