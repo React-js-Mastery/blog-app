@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/blog-app/static/css/main.768dd533.css",
+    "main.css": "/blog-app/static/css/main.29e007e3.css",
     "main.js": "/blog-app/static/js/main.5ba95eab.js",
     "static/media/wallpaper-5.jpg": "/blog-app/static/media/wallpaper-5.4a250810390cb21f990e.jpg",
     "static/media/Automation and Robotics.jpg": "/blog-app/static/media/Automation and Robotics.3d4ef7ece7123df06177.jpg",
@@ -82,11 +82,11 @@
     "static/media/Burgers.jpg": "/blog-app/static/media/Burgers.be7404a69105197d91a1.jpg",
     "static/media/Sushi.jpg": "/blog-app/static/media/Sushi.183719dd3d91ff5aec2c.jpg",
     "index.html": "/blog-app/index.html",
-    "main.768dd533.css.map": "/blog-app/static/css/main.768dd533.css.map",
+    "main.29e007e3.css.map": "/blog-app/static/css/main.29e007e3.css.map",
     "main.5ba95eab.js.map": "/blog-app/static/js/main.5ba95eab.js.map"
   },
   "entrypoints": [
-    "static/css/main.768dd533.css",
+    "static/css/main.29e007e3.css",
     "static/js/main.5ba95eab.js"
   ]
 }
